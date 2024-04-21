@@ -1,0 +1,1 @@
+# PlatformIO low power mode for STM32
